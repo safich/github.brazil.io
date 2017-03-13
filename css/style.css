@@ -518,7 +518,6 @@ ol.link-list li a:hover {
 	margin-bottom: 10px;
 }
 footer{
-	position: absolute;
     position: absolute;
     right: 0;
     bottom: 0;
@@ -560,9 +559,6 @@ footer a:hover{
 	}
 	a, p, li, span{
 		font-size: 18px;
-	}
-	article, .inner, .carousel-caption, .box-content{
-		height: 750px;
 	}
 	.slogan{
 		padding: 340px 5%;
