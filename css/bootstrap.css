@@ -361,9 +361,14 @@ pre code {
     width: 1170px;
   }
 }
-@media (min-width: 1400px) {
+@media (min-width: 1600px) {
   .container {
-    width: 1360px;
+    width: 1420px;
+  }
+}
+@media (min-width: 1900px) {
+  .container {
+    width: 1720px;
   }
 }
 .container-fluid {
